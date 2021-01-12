@@ -2,7 +2,7 @@
   "name": "portfolionew",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://samus94.github.io/portfolio",
+  "homepage": "https://samus94.github.io/portfolionew",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
